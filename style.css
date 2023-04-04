@@ -1,0 +1,15 @@
+h1 ,h2 ,h3{
+    color:gray;
+    
+}
+h1{
+    background-color: rgb(46, 210, 215);
+    text-align: center;
+}
+p{
+    font-size:1.2rem;
+}
+hr{
+    border: 1px dotted blueviolet;
+}
+
